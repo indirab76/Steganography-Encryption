@@ -1,0 +1,1 @@
+Steganography-Encryption in Java hides encrypted data in an image file using LSB techniques. The enryption options available are DES, Blowfish and AES. For every encryption this tool also provides the psnr and mse values for the original and the embede image for analysis purposes.
